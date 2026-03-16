@@ -55,15 +55,6 @@ Fractional dividers divide the input clock by a non-integer value. These are cri
 - ✔ Reset handling
 - ✔ Testbench included for verification
 - ✔ Industry-style coding conventions
-
----
-
-## 🔧 Tools Used
-
-- **Language:** Verilog HDL  
-- **Simulation:** ModelSim / Questa / Riviera-PRO / Xcelium / Vivado  
-- **Synthesis:** Cadence Genus / Synopsys Design Compiler / Xilinx Vivado  
-
 ---
 
 ## ▶️ How to Simulate (Example)
