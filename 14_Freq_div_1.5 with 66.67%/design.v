@@ -2,6 +2,7 @@ module freq_div1p5(
   input wire clk,
   input wire rst,
   output wire f1p5
+  
 );
 
   reg en1, en2;
