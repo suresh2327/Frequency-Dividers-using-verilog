@@ -37,6 +37,5 @@ module freq_div1p5(
     else
       en2 <= 1'b0;
   end
-
   assign f1p5 = en1 ^ en2;
 endmodule
